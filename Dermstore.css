@@ -1,0 +1,155 @@
+
+*{
+    margin: 0px;
+
+}
+.a {
+    background-color: black;
+    height: 60px;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+.b{
+    background-color: beige;
+    height: 120px;
+    display: flex;
+    justify-content:center;
+   
+}
+.d {
+    align-self: center;
+    height: 55px;
+    width: 55px;
+    background-color: black;
+    margin-left: 90px;
+    border-top-right-radius: 80px;
+    border-bottom-right-radius: 80px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.o{
+    height: 30px;
+    width: 30PX;
+   border-radius: 50%;
+    align-self:center ;
+    background-color: white;
+    
+}
+.name{
+    align-self:center ;
+   font-size: 25px;
+    font-weight: bolder;
+    margin-left: 20px;
+    display: inline-block;
+}
+.input{
+    align-self: center;
+    margin-left: 450px;
+}
+.inputa{
+    width: 380px;
+    height: 30px;
+    border-color: aqua;
+}
+.p1{
+    align-self: center;
+    margin-left: 10px;
+    color: rgb(14, 196, 196);
+}
+.p2{
+    text-decoration: none;
+    color: rgb(11, 124, 124);
+    
+}
+.bag{
+  
+    background-image: url(shopping-bag-regular-24.png);
+    background-repeat: no-repeat;
+   background-size: contain;
+    background-position: center;
+    height: 35px;
+    width: 35px;
+    align-self:center ;
+  
+}
+.nav{
+    background-color: wheat;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    
+}
+.n1{
+    display: inline;
+    align-self:center ;
+    margin: 32px;
+}
+.nav2{
+    color: black;
+    align-self: center;
+}
+.img{
+    height:700px;
+    
+    
+    background-repeat: no-repeat;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    position: center;
+
+   
+  
+  
+}
+.VIRAT{
+    height: 525PX;
+    width: 977px;
+    background-color: black;
+   background-image: url(Couple_dvAwGiD.png);
+   background-repeat: no-repeat;
+   background-size: contain;
+   align-self: center;
+  position:center;
+  padding: 30px;
+}
+.vp{
+    color: white;
+    font-size: larger;
+}
+.vp2{
+    font-size: 50px;
+    color: white;
+}
+.vp3{
+    margin-left: 0px;
+    font-size: large;
+    color: white;
+}
+button{
+    width: 120px;
+    height: 35px;
+    font-size: large;
+}
+.vp4{
+    color: white;
+    font-size: small;
+}
+.end{
+    height: 25px;
+    background-color: black;
+    color: white;
+    margin-bottom: 5px;
+    text-align: center;
+}
